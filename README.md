@@ -2,6 +2,7 @@
 
 Recommended version: ≥ MATLAB R2014b
 
-1. Moving Average Filter -- MovingAverage.m
-2. Schmidt Orthogonalization -- Schmidt.m
-3. MDCT/FFT Transform -- Transform -- For Stereo
+1. <Transform> MDCT/FFT Transform For Stereo
+2. <MovingAverage.m> Moving Average Filter
+3. <Schmidt.m> Schmidt Orthogonalization
+4. <GenerateSineWave.m> Generate Single Frequency Signals
